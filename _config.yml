@@ -22,7 +22,9 @@ author:
   pronouns         : "she/her"
   bio              : "Political Scientist specializing in Democratization, Migration, and Kurdish Studies. Research Engineer & Senior Data Scientist at Paris Dauphine University – ACSS-DIG."
   location         : "Paris, France"
-  employer         : "Université Paris-Dauphine (PSL) / GIGA Hamburg"
+  employer: >
+    Université Paris-Dauphine (PSL)<br>
+    GIGA Hamburg
   uri              : 
   email            : "jasim.dastan@gmail.com"
 
