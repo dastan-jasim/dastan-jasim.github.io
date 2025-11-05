@@ -2,10 +2,8 @@
 permalink: /
 title: "Dastan Jasim"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
+
 
 I am a political scientist specializing in comparative political sociology, Kurdish studies, and post-conflict governance in the Middle East. My research examines civic participation, decentralization, and the formation of citizenship in authoritarian and stateless contexts, with a focus on Kurdish societies across Iraq, Iran, Turkey, and Syria.
 
