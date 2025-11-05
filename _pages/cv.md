@@ -81,6 +81,9 @@ Experienced public speaker and educator with strong communication and analytical
 
 ## Freelance Projects
 
+* **Initiator and Freelance Researcher**, Amadeu Antonio Foundation and KurdAKAD (2022–2024)  
+  - Edited volume and event series on inner-migrant racism in Germany
+
 * **Freelance Researcher**, Austrian Federal Office for Immigration and Asylum (2022–2023)  
   - Authored country reports on Syria, Iraq, and Turkey  
 
@@ -102,8 +105,8 @@ Experienced public speaker and educator with strong communication and analytical
 * **IT:** R (advanced), Python (advanced), STATA (intermediate), SPSS (basic), MS Office, LaTeX  
 * **Languages:**  
   - German (Native)  
-  - English (Fluent, C1)  
-  - French (Fluent, C1)  
+  - English (Fluent)  
+  - French (Fluent)  
   - Kurdish Sorani (Fluent spoken)  
   - Kurdish Kurmanji (Advanced spoken)
 
@@ -121,10 +124,10 @@ Experienced public speaker and educator with strong communication and analytical
 
 ## Conferences & Workshops
 
-* **Kurdish Studies Conference**, LSE (2025, 2023)  
-* **MESA Conference**, Denver (2022)  
+* **Kurdish Studies Conference**, LSE (2025, 2023)
+* **Diaspora and Indigeneity Workshop**, Center for Jewish Studies Heidelberg (2023)
+* **MESA Conference**, Denver, Colorado (2022)  
 * **ECPR General Conference**, Innsbruck & Hamburg (2018–2021)  
-* **Diaspora and Indigeneity Workshop**, Heidelberg (2023)
 
 ---
 
@@ -143,30 +146,5 @@ Experienced public speaker and educator with strong communication and analytical
 {% endfor %}
 </ul>
 
----
-
-## Book Chapters
-
-- Jasim, D. (2025). *Democratisation through Kurdish Decentralisation?* In *Governance of Resistance in North and East Syria*, Bloomsbury IB Tauris.  
-- Jasim, D. (2023). *Kurdistan-Iraq and EU*. In *Between Diplomacy and Non-Diplomacy*, Palgrave MacMillan.  
-- Jasim, D. (2021). *Kurdish Youth and Civic Culture*. In *Youth Identity, Politics and Change in Contemporary Kurdistan*, Transnational Press.  
-
----
-
-## Policy Papers
-
-- [“How the Kurds Make the Case for Democratization”](https://www.iemed.org/publication/how-the-kurds-make-the-case-for-democratization/) – *Quaderns de la Mediterrània* (2024)  
-- [“Syria: The Border Situation Between Turkey, Syria, and Iraq”](https://www.ecoi.net/en/file/local/2098696/2023-10-17_COI_CMS_Research+Papers+Syria_The_border_situation_between_Turkey_Syria_and_Iraq_Version_1-8cff.pdf) – Austrian Federal Office for Immigration and Asylum (2023)  
-- [“Iran Protests: Reform, Revolution, or Status Quo?”](https://agsiw.org/iran-protests-reform-revolution-or-status-quo/) – AGSIW (2022)  
-- [“Beyond the Elite: Taking Protest and Public Opinion Seriously in the Kurdistan Region”](https://www.mei.edu/publications/beyond-elite-taking-protest-and-public-opinion-seriously-kurdistan-region) – Middle East Institute (2021)  
-- [“Biden’s Challenge: Kurdish Autonomy and Turkish Expansionism”](https://www.giga-hamburg.de/en/publications/23480846-biden-challenge-kurdish-autonomy-turkish-expansionism/) – *GIGA Focus Nahost* (2021)
-
----
-
-## Book Reviews
-
-- Jasim, D. (2024). *Review of “The Kurds in Erdogan’s New Turkey: Domestic and International Implications”*, *Kurdish Studies Journal*, 2(1), 112–115.
-
----
 
 _Last updated: {{ site.time | date: "%B %Y" }}_
