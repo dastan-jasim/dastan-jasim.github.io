@@ -18,13 +18,11 @@ repository               : "dastan-jasim/dastan-jasim.github.io"
 # --------------------------------------------
 author:
   avatar : "dastan-jasim.jpg"
-  name             : "Dastan Jasim, PhD"
+  name             : "Dr. Dastan Jasim"
   pronouns         : "she/her"
-  bio              : "Political Scientist specializing in Democratization, Migration, and Kurdish Studies. Research Engineer & Senior Data Scientist at Paris Dauphine University – ACSS-DIG."
+  bio              : "Computational social and political scientist. Democratization · political behavior & culture · Middle East &amp; Kurdish studies · NLP/LLMs."
   location         : "Paris, France"
-  employer: >
-    Université Paris-Dauphine (PSL)<br>
-    GIGA Hamburg
+  employer         : "Research Engineer &amp; Senior Data Scientist · Université Paris Dauphine – PSL, ACSS-DIG"
   uri              : 
   email            : "jasim.dastan@gmail.com"
 
@@ -56,6 +54,8 @@ author:
 # Publication Categories
 # --------------------------------------------
 publication_category:
+  book:
+    title: "Books"
   peer-reviewed:
     title: "Peer-Reviewed Articles"
   book-chapter:
@@ -64,8 +64,10 @@ publication_category:
     title: "Policy Papers"
   book-review:
     title: "Book Reviews"
-  book:
-    title: "Books"
+  report:
+    title: "Reports & Edited Volumes"
+  preprint:
+    title: "Preprints"
 
 # --------------------------------------------
 # Site Settings
@@ -134,6 +136,12 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  media:
+    output: true
+    permalink: /:collection/:path/
+  videos:
+    output: true
+    permalink: /:collection/:path/
 
 # --------------------------------------------
 # Defaults
@@ -177,6 +185,18 @@ defaults:
       type: talks
     values:
       layout: talk
+      author_profile: true
+  - scope:
+      path: ""
+      type: media
+    values:
+      layout: single
+      author_profile: true
+  - scope:
+      path: ""
+      type: videos
+    values:
+      layout: single
       author_profile: true
 
 # --------------------------------------------

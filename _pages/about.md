@@ -2,24 +2,47 @@
 permalink: /
 title: "Dastan Jasim"
 author_profile: true
+header:
+  overlay_image: xaneqin.png
+  overlay_filter: 0.45
 ---
 
+{% include lang-switch.html %}
 
-I am a political scientist specializing in comparative political sociology, Kurdish studies, and post-conflict governance in the Middle East. My research examines civic participation, decentralization, and the formation of citizenship in authoritarian and stateless contexts, with a focus on Kurdish societies across Iraq, Iran, Turkey, and Syria.
+Computational social scientist and political scientist working at the intersection of **Middle East studies**, **democratization**, **political behavior and culture**, and **computational text analysis**. My research examines how civic norms, political institutions, and democratic cultures emerge in conflict-affected and stateless communities, with a sustained focus on Kurdish societies across Iraq, Iran, Turkey, and Syria.
 
-Currently, I serve as a **Research Engineer and Senior Data Scientist at the ACSS Institute, Paris-Dauphine University**, where I design and coordinate computational social science projects. My work combines **quantitative analysis, qualitative field research**, and **computational text analysis using NLP and large language models (LLMs)** to explore questions of governance, participation, and democratization.
+<div class="research-tags">
+  <span class="research-tag">Democratization</span>
+  <span class="research-tag">Political Behavior & Culture</span>
+  <span class="research-tag">Middle East Studies</span>
+  <span class="research-tag">Kurdish Politics</span>
+  <span class="research-tag">Computational Social Science</span>
+  <span class="research-tag">NLP & LLMs</span>
+  <span class="research-tag">Migration & Diaspora</span>
+</div>
 
-I hold a **PhD in Political Science** from the Friedrich-Alexander University Erlangen-Nuremberg and the **GIGA Institute for Middle East Studies** (Hamburg), funded by the Rosa Luxemburg Foundation. My dissertation, *Civic Culture Without a State: Kurdish Civic Culture in Iraq, Iran, Turkey and Syria between State Control and Resistance*, provides a comparative and mixed-methods analysis of Kurdish political culture across four countries. The book version, *The Kurdish Case for Democracy*, is forthcoming with **Palgrave Macmillan**.
+<div class="position-block">
+  <strong>Research Engineer & Senior Data Scientist</strong>
+  <span>Université Paris Dauphine – PSL, ACSS-DIG &nbsp;·&nbsp; Paris, France &nbsp;·&nbsp; since 2025</span>
+</div>
 
-My research has been published in **South Atlantic Quarterly**, **International Journal of Conflict and Violence**, and **The Commentaries**, and I have contributed book chapters to volumes with **Bloomsbury IB Tauris**, **Palgrave Macmillan**, and **Transnational Press London**. Beyond academia, I have written policy papers for the **Middle East Institute**, **AGSIW**, **Austrian Federal Office for Immigration and Asylum**, and **GIGA**.
+I combine large-scale survey data, field research, and computational methods (NLP pipelines, transformer-based classification, LLMs) to study political participation, governance, and textual data at scale. My book *The Kurdish Case for Democracy* is forthcoming with **Palgrave Macmillan**.
 
-Alongside my research, I have taught political science and Middle East politics in different university contexts and have given talks for public education and political education institutions. My teaching focuses on comparative politics, democratization, mixed methods, and Kurdish studies.
+My work has appeared in **South Atlantic Quarterly**, **International Journal of Conflict and Violence**, and volumes published by **Bloomsbury IB Tauris** and **Palgrave Macmillan**. I have written policy analyses for the **Middle East Institute**, **AGSIW**, **Rosa Luxemburg Foundation**, **BPB**, and the **Austrian Federal Office for Immigration and Asylum**.
 
-My ongoing projects explore:
-- Civic culture and democratic participation in post- and non-state contexts  
-- Transnational repression and diaspora activism as well as inner-migrant racism 
-- The intersection of AI, text analysis, and critical/decolonial approaches in social science  
+**Current projects:**
 
-I am fluent in **German, English, French, and Kurdish (Sorani and Kurmanji)**.
+**Gendered Academic Network Dynamics in French Management Studies** (Université Paris Dauphine – PSL, since 2025): gender dynamics in doctoral juries and co-supervision networks; LLM-based sub-discipline classification.
+
+**Kurdish Media and the Israel–Palestine Conflict** (Heidelberg University of Jewish Studies, since 2023, Volkswagen Foundation): media framing analysis across Kurdish outlets.
+
+**Mapping Stateless AI Infrastructures** (SCRIPTS Forum, Freie Universität Berlin, 2026): Kurdish NLP as a case of AI governance beyond the state.
+
+Fluent in **German, English, French, and Kurdish** (Sorani and Kurmanji).
 
 _Last updated: {{ site.time | date: "%B %Y" }}_
+
+<script>
+var t = document.querySelector('.page__hero--overlay .page__title');
+if (t) t.style.display = 'none';
+</script>

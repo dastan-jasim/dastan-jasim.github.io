@@ -1,0 +1,16 @@
+---
+layout: archive
+title: "Interviews & Quotes"
+permalink: /media/
+author_profile: true
+---
+
+<p>A selection of interviews, press features, and citations in print and broadcast media.</p>
+
+{% include base_path %}
+
+{% assign sorted_media = site.media | sort: "date" | reverse %}
+{% if sorted_media == nil %}{% assign sorted_media = "" | split: "" %}{% endif %}
+{% for post in sorted_media %}
+  {% include archive-single.html %}
+{% endfor %}
