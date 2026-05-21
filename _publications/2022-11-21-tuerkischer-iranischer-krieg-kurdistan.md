@@ -8,4 +8,6 @@ date: 2022-11-21
 venue: 'Rosa-Luxemburg-Stiftung'
 paperurl: 'https://www.rosalux.de/news/id/49531/grenzuebergreifend-der-tuerkische-und-iranische-krieg-in-kurdistan'
 citation: 'Jasim, D. (2022). "Grenzübergreifend: Der türkische und iranische Krieg in Kurdistan." <i>Rosa-Luxemburg-Stiftung.</i>'
+excerpt_de: "Untersucht türkische und iranische Militärkampagnen gegen kurdische Bevölkerungen und kritisiert Deutschlands passive diplomatische Haltung."
+excerpt_fr: "Examine les campagnes militaires turques et iraniennes contre les populations kurdes, critiquant la position diplomatique passive de l'Allemagne."
 ---

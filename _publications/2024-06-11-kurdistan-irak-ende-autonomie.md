@@ -8,4 +8,6 @@ date: 2024-06-11
 venue: 'Rosa-Luxemburg-Stiftung'
 paperurl: 'https://www.rosalux.de/news/id/52191/die-region-kurdistan-im-irak-das-ende-der-autonomie'
 citation: 'Jasim, D. (2024). "Die Region Kurdistan im Irak: Das Ende der Autonomie?" <i>Rosa-Luxemburg-Stiftung.</i>'
+excerpt_de: "Analysiert, wie interne KDP-PUK-Rivalitäten kombiniert mit iranischem und türkischem Druck die Stabilität und demokratischen Institutionen des irakischen Kurdistans bedrohen."
+excerpt_fr: "Analyse comment les rivalités internes KDP-PUK, combinées aux pressions iranienne et turque, menacent la stabilité et les institutions démocratiques du Kurdistan irakien."
 ---

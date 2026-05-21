@@ -72,7 +72,7 @@ lang: fr
       <h2 id="{{ cat }}">{{ category_titles_fr[idx] }}</h2><hr />
       {% assign title_shown = true %}
     {% endunless %}
-    {% include archive-single.html %}
+    {% include archive-single.html lang=page.lang %}
   {% endfor %}
 {% endfor %}
 

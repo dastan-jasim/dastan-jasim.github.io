@@ -8,4 +8,6 @@ date: 2024-04-01
 venue: 'Quaderns de la Mediterrània 36'
 paperurl: 'https://www.iemed.org/publication/how-the-kurds-make-the-case-for-democratization/'
 citation: 'Jasim, D. (2024). "How the Kurds Make the Case for Democratization." <i>Quaderns de la Mediterrània</i>, 36.'
+excerpt_de: "Politikpapier über kurdische Demokratisierungsbemühungen."
+excerpt_fr: "Analyse politique sur les efforts de démocratisation kurdes."
 ---

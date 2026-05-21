@@ -8,4 +8,6 @@ date: 2022-08-30
 venue: 'Kurdish Peace Institute'
 paperurl: 'https://www.kurdishpeace.org/research/security-and-defense/amid-nuclear-talks-the-west-cant-ignore-irans-kurdish-question/'
 citation: "Jasim, D. (2022). &quot;Amid Nuclear Talks, The West Can't Ignore Iran's Kurdish Question.&quot; <i>Kurdish Peace Institute.</i>"
+excerpt_de: "Plädiert dafür, dass westliche Regierungen bei Atomverhandlungen mit Iran gleichzeitig die systematische Unterdrückung der kurdischen Minderheit ansprechen müssen."
+excerpt_fr: "Soutient que les gouvernements occidentaux négociant des accords nucléaires avec l'Iran doivent simultanément aborder la répression systématique de la minorité kurde."
 ---

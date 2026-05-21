@@ -8,4 +8,6 @@ date: 2023-10-01
 venue: 'Federal Office for Immigration and Asylum (Austria)'
 paperurl: 'https://www.ecoi.net/en/file/local/2098696/2023-10-17_COI_CMS_Research+Papers+Syria_The_border_situation_between_Turkey_Syria_and_Iraq_Version_1-8cff.pdf'
 citation: 'Jasim, D. (2023). "Syria: The border situation between Turkey, Syria, and Iraq." COI-CMS Country of Origin Information – Federal Office for Immigration and Asylum.'
+excerpt_de: "COI-CMS-Länderbericht zur Grenzdynamik Syriens."
+excerpt_fr: "Rapport pays COI-CMS sur la dynamique frontalière syrienne."
 ---

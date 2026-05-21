@@ -7,4 +7,6 @@ excerpt: 'Comparative chapter on Kurdish decentralisation and constitutional des
 date: 2025-06-01
 venue: 'In R. Lowe & Z. Kaya (eds.): Governance of Resistance in North and East Syria, Bloomsbury IB Tauris.'
 citation: 'Jasim, D. (2025). "Democratisation through Kurdish Decentralisation?" In R. Lowe & Z. Kaya (eds.), <i>Governance of Resistance in North and East Syria</i>. New York: Bloomsbury IB Tauris.'
+excerpt_de: "Vergleichendes Kapitel über kurdische Dezentralisierung und Verfassungsdesign."
+excerpt_fr: "Chapitre comparatif sur la décentralisation kurde et la conception constitutionnelle."
 ---

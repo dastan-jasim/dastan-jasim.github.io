@@ -8,4 +8,6 @@ date: 2022-05-13
 venue: 'Rosa-Luxemburg-Stiftung'
 paperurl: 'https://www.rosalux.de/news/id/46513/jenseits-der-doppelmoral-des-westens'
 citation: 'Jasim, D. (2022). "Jenseits der Doppelmoral des Westens." <i>Rosa-Luxemburg-Stiftung.</i>'
+excerpt_de: "Untersucht die westliche Doppelmoral gegenüber türkischer Drohnenkriegsführung: gefeiert beim Einsatz in der Ukraine, ignoriert beim Einsatz gegen kurdische Bevölkerungen."
+excerpt_fr: "Examine l'hypocrisie occidentale face aux frappes de drones turques : saluées lorsqu'elles visent l'Ukraine, ignorées lorsqu'elles frappent les populations kurdes."
 ---

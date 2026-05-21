@@ -8,4 +8,6 @@ date: 2025-06-08
 venue: 'Palgrave Macmillan'
 forthcoming: true
 citation: 'Jasim, D. (Forthcoming). <i>The Kurdish Case for Democracy.</i> New York: Palgrave Macmillan.'
+excerpt_de: "Monographie über kurdische Zivilkultur und Demokratisierung."
+excerpt_fr: "Monographie sur la culture civique kurde et la démocratisation."
 ---
