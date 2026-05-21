@@ -1,14 +1,15 @@
 ---
 layout: archive
 title: "Publications"
-permalink: /publications/
+permalink: /fr/publications/
 author_profile: true
+lang: fr
 ---
 
 {% include pub-lang-switch.html %}
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+  <div class="wordwrap">Retrouvez également mes articles sur <a href="{{site.author.googlescholar}}">mon profil Google Scholar</a>.</div>
 {% endif %}
 
 {% include base_path %}
@@ -41,64 +42,49 @@ author_profile: true
   border-left: 2px solid #e0e0e0;
   transition: border-color 0.15s, color 0.15s;
 }
-.pub-nav a:hover {
-  border-left-color: #555;
-  color: #111;
-}
-.pub-nav a.active {
-  border-left-color: #222;
-  color: #111;
-  font-weight: 600;
-}
+.pub-nav a:hover { border-left-color: #555; color: #111; }
+.pub-nav a.active { border-left-color: #222; color: #111; font-weight: 600; }
 </style>
 
-{% if site.publication_category %}
+{% assign categories_fr = "book,peer-reviewed,book-chapter,policy-paper,book-review,report,preprint" | split: "," %}
+{% assign category_titles_fr = "Livres,Articles évalués par les pairs,Chapitres d'ouvrages,Analyses politiques,Comptes rendus,Rapports & ouvrages collectifs,Prépublications" | split: "," %}
 
 <div class="pub-nav">
-  <strong>Jump to</strong>
-  {% for category in site.publication_category %}
+  <strong>Aller à</strong>
+  {% for cat in categories_fr %}
     {% assign has_posts = false %}
     {% for post in site.publications %}
-      {% if post.category == category[0] %}{% assign has_posts = true %}{% endif %}
+      {% if post.category == cat %}{% assign has_posts = true %}{% endif %}
     {% endfor %}
     {% if has_posts %}
-      <a href="#{{ category[0] }}">{{ category[1].title }}</a>
+      {% assign idx = forloop.index0 %}
+      <a href="#{{ cat }}">{{ category_titles_fr[idx] }}</a>
     {% endif %}
   {% endfor %}
 </div>
 
-{% for category in site.publication_category %}
+{% for cat in categories_fr %}
   {% assign title_shown = false %}
+  {% assign idx = forloop.index0 %}
   {% for post in site.publications reversed %}
-    {% if post.category != category[0] %}{% continue %}{% endif %}
+    {% if post.category != cat %}{% continue %}{% endif %}
     {% unless title_shown %}
-      <h2 id="{{ category[0] }}">{{ category[1].title }}</h2><hr />
+      <h2 id="{{ cat }}">{{ category_titles_fr[idx] }}</h2><hr />
       {% assign title_shown = true %}
     {% endunless %}
     {% include archive-single.html %}
   {% endfor %}
 {% endfor %}
 
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
-
 <script>
-// Highlight active section in the nav as user scrolls
 (function () {
   var sections = document.querySelectorAll('h2[id]');
   var links = document.querySelectorAll('.pub-nav a');
   function onScroll() {
     var scrollY = window.scrollY + 120;
     var current = '';
-    sections.forEach(function (s) {
-      if (s.offsetTop <= scrollY) current = s.id;
-    });
-    links.forEach(function (a) {
-      a.classList.toggle('active', a.getAttribute('href') === '#' + current);
-    });
+    sections.forEach(function (s) { if (s.offsetTop <= scrollY) current = s.id; });
+    links.forEach(function (a) { a.classList.toggle('active', a.getAttribute('href') === '#' + current); });
   }
   window.addEventListener('scroll', onScroll, { passive: true });
   onScroll();
