@@ -73,6 +73,19 @@
 }
 
 /* --------------------------------------------------------------------------
+   Publications — uniform link color for titles
+   -------------------------------------------------------------------------- */
+
+.archive__item-title a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.archive__item-title a:hover {
+  text-decoration: underline;
+}
+
+/* --------------------------------------------------------------------------
    About page — research tags & position block
    -------------------------------------------------------------------------- */
 

@@ -41,8 +41,6 @@ Meine Forschung ist u.a. erschienen in **South Atlantic Quarterly**, **Internati
 
 Fließend in **Deutsch, Englisch, Französisch und Kurdisch** (Sorani und Kurmanji).
 
-_Zuletzt aktualisiert: {{ site.time | date: "%B %Y" }}_
-
 <script>
 var t = document.querySelector('.page__hero--overlay .page__title');
 if (t) t.style.display = 'none';

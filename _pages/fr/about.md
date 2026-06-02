@@ -41,8 +41,6 @@ Mes travaux ont été publiés dans **South Atlantic Quarterly**, **Internationa
 
 Maîtrise de l'**allemand, de l'anglais, du français et du kurde** (sorani et kurmandji).
 
-_Dernière mise à jour: {{ site.time | date: "%B %Y" }}_
-
 <script>
 var t = document.querySelector('.page__hero--overlay .page__title');
 if (t) t.style.display = 'none';
