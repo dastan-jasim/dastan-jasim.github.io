@@ -57,6 +57,10 @@ Political scientist and computational social scientist with expertise in democra
 
 **Kurdish Media and the Israel–Palestine Conflict** · Heidelberg University of Jewish Studies · since 2023 *(Volkswagen Foundation)*
 
+**Stateless AI Governance: Kurdish Language Technologies and the Democratization of Digital Order** · SCRIPTS Forum, Freie Universität Berlin · 08/2026
+
+Examines Kurdish language technologies as a case of AI governance without a state: how communities develop digital infrastructure absent sovereign institutions. Analyzes Kurdish NLP corpora, tools, and repositories as contested spaces of democratic participation, recognition, and resource allocation, arguing they constitute an arena of stateless democratization.
+
 ---
 
 ## Freelance & Consulting
@@ -119,14 +123,3 @@ Political scientist and computational social scientist with expertise in democra
 | **IT** | Python (advanced), R (advanced), Stata (intermediate), LaTeX, Git |
 | **Languages** | German (native), English (C1), French (C1), Kurdish – Sorani & Kurmanji (native/fluent) |
 
----
-
-## Publications
-
-<ul>
-{% for post in site.publications reversed %}
-  {% include archive-single-cv.html %}
-{% endfor %}
-</ul>
-
-_Last updated: {{ site.time | date: "%B %Y" }}_
